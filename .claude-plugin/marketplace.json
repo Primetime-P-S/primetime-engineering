@@ -1,0 +1,14 @@
+{
+  "name": "primetime-engineering",
+  "owner": {
+    "name": "Primetime (Niclas Nielsen)",
+    "email": "nni@primetime.dk"
+  },
+  "plugins": [
+    {
+      "name": "primetime",
+      "source": "./plugins/primetime",
+      "description": "Primetimes AI-udviklingsstandard: /primetime:bootstrap-project, /primetime:plan-feature, /primetime:create-adr, /primetime:implement-step, /primetime:review-change, /primetime:azure-deploy + agenterne planner og reviewer."
+    }
+  ]
+}
