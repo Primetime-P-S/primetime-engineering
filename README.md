@@ -12,12 +12,16 @@ Primetimes centrale repo for AI-assisteret softwareudvikling. Det er **kilden ti
 
 ## Installer plugin'et i Claude Code
 
+Åbn Claude Code (i VS Code-extensionen eller terminalen) og kør:
+
 ```
-/plugin marketplace add <din-org>/primetime-engineering
+/plugin marketplace add Primetime-P-S/primetime-engineering
 /plugin install primetime@primetime-engineering
 ```
 
-Herefter er commands tilgængelige som `/primetime:bootstrap-project`, `/primetime:plan-feature` osv., og agenterne som `@primetime:planner` og `@primetime:reviewer`.
+Vælg **user**-scope, så du har det i alle dine projekter. Herefter er commands tilgængelige som `/primetime:bootstrap-project`, `/primetime:plan-feature` osv., og agenterne som `@primetime:planner` og `@primetime:reviewer`.
+
+Ny på Claude Code, eller løber du ind i en fejl? Se [`documentation/installation-guide.md`](documentation/installation-guide.md) for en trin-for-trin-guide med fejlfinding.
 
 ## Vigtigt: plugin vs. projekt
 

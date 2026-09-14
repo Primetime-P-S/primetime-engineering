@@ -1,0 +1,20 @@
+# Claude Code — lokale/personlige indstillinger, må ikke committes
+.claude/settings.local.json
+
+# OS-cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Node (hvis der senere tilføjes tooling)
+node_modules/
+npm-debug.log*
+
+# Miljøvariabler / secrets
+.env
+.env.*
