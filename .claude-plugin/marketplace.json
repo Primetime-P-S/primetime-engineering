@@ -8,7 +8,7 @@
     {
       "name": "primetime",
       "source": "./plugins/primetime",
-      "description": "Primetimes AI-udviklingsstandard: /primetime:bootstrap-project, /primetime:plan-feature, /primetime:create-adr, /primetime:implement-step, /primetime:review-change, /primetime:azure-deploy + agenterne planner og reviewer."
+      "description": "Primetimes AI-udviklingsstandard: /primetime:bootstrap-project, /primetime:plan-feature, /primetime:create-adr, /primetime:implement-step, /primetime:review-change, /primetime:azure-deploy + agenterne planner og reviewer, /primetime:quiz-architecture."
     }
   ]
 }
