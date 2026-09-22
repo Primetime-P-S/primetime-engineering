@@ -2,7 +2,7 @@
   "name": "primetime",
   "displayName": "Primetime AI-udviklingsstandard",
   "description": "Primetimes fælles metode for AI-assisteret softwareudvikling: commands og agenter til projektopstart, planlægning, ADR'er, implementering og uafhængigt review.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": {
     "name": "Primetime (Niclas Nielsen)",
     "email": "nni@primetime.dk"
