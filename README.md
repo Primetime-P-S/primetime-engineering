@@ -6,7 +6,7 @@ Primetimes centrale repo for AI-assisteret softwareudvikling. Det er **kilden ti
 
 - `plugins/primetime/` — selve plugin'et: de commands og agenter, der udgør metoden. Distribueres til Claude Code via marketplace'et.
 - `.claude-plugin/marketplace.json` — marketplace-manifest, så plugin'et kan installeres med `/plugin`.
-- `standards/` — de menneskelæsbare standarder (kodestil + kommentarer, AI-politik, sikkerhed, test, git/PR, AI-systemer, Definition of Done). Refereres fra hvert projekts `CLAUDE.md`.
+- `standards/` — de menneskelæsbare standarder (kodestil + kommentarer, AI-politik, sikkerhed, test, git/PR, AI-systemer, Definition of Done, hosting). Refereres fra hvert projekts `CLAUDE.md`.
 - `templates/` — skabeloner: charter, PRD, ADR, architecture, threat model, current-state, PR-template.
 - `starter/` — et køreklart skabelon-projekt, nye repos startes fra.
 
